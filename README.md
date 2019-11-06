@@ -1,4 +1,4 @@
-# vue-cli
+# simple-quotes
 
 > A Vue.js learning-project
 
